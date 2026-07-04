@@ -10,6 +10,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0011-container-with-most-water](https://github.com/maneshrava/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/maneshrava/leetcode-solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/maneshrava/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [3925-concatenate-array-with-reverse](https://github.com/maneshrava/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/maneshrava/leetcode-solutions/tree/master/0066-plus-one) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/maneshrava/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
