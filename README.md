@@ -9,6 +9,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0001-two-sum](https://github.com/maneshrava/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/maneshrava/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/maneshrava/leetcode-solutions/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/maneshrava/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/maneshrava/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/maneshrava/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
