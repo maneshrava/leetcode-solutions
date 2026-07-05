@@ -28,8 +28,14 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/maneshrava/leetcode-solutions/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/maneshrava/leetcode-solutions/tree/master/0258-add-digits) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/maneshrava/leetcode-solutions/tree/master/0258-add-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/maneshrava/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/maneshrava/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
