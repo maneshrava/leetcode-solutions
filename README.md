@@ -32,6 +32,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0066-plus-one](https://github.com/maneshrava/leetcode-solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/maneshrava/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/maneshrava/leetcode-solutions/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/maneshrava/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
 | ------- |
@@ -57,4 +58,5 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/maneshrava/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/maneshrava/leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
