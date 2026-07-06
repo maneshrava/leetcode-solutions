@@ -30,6 +30,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/maneshrava/leetcode-solutions/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/maneshrava/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/maneshrava/leetcode-solutions/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -48,4 +49,12 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maneshrava/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/maneshrava/leetcode-solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/maneshrava/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
