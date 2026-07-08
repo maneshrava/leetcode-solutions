@@ -13,6 +13,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0283-move-zeroes](https://github.com/maneshrava/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/maneshrava/leetcode-solutions/tree/master/0704-binary-search) |
 | [1995-count-special-quadruplets](https://github.com/maneshrava/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/maneshrava/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/maneshrava/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/maneshrava/leetcode-solutions/tree/master/0258-add-digits) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/maneshrava/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/maneshrava/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
@@ -68,4 +70,8 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/maneshrava/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
+## String
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/maneshrava/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
