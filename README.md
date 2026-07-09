@@ -32,6 +32,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/maneshrava/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/maneshrava/leetcode-solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/maneshrava/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/maneshrava/leetcode-solutions/tree/master/0258-add-digits) |
@@ -40,6 +41,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/maneshrava/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/maneshrava/leetcode-solutions/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/maneshrava/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/maneshrava/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -73,5 +75,6 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/maneshrava/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/maneshrava/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
