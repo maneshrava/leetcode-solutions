@@ -6,9 +6,9 @@ class Solution {
            if(op.charAt(1) == '+'){
             x++;
            }
-        else{
+        else
             x--;
-        }
+        
         }
         return x;
     }
