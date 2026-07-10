@@ -78,5 +78,6 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/maneshrava/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/maneshrava/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/maneshrava/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
