@@ -25,6 +25,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/maneshrava/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/maneshrava/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/maneshrava/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -82,6 +83,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/maneshrava/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/maneshrava/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/maneshrava/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/maneshrava/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Database
