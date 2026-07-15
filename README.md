@@ -44,6 +44,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0258-add-digits](https://github.com/maneshrava/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/maneshrava/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/maneshrava/leetcode-solutions/tree/master/0342-power-of-four) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/maneshrava/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/maneshrava/leetcode-solutions/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/maneshrava/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
