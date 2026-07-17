@@ -46,6 +46,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0066-plus-one](https://github.com/maneshrava/leetcode-solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/maneshrava/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/maneshrava/leetcode-solutions/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/maneshrava/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/maneshrava/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/maneshrava/leetcode-solutions/tree/master/0342-power-of-four) |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -119,4 +120,8 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/maneshrava/leetcode-solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
