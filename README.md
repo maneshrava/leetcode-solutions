@@ -13,6 +13,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0283-move-zeroes](https://github.com/maneshrava/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/maneshrava/leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/maneshrava/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/maneshrava/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -112,6 +113,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maneshrava/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -133,4 +135,8 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/maneshrava/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
