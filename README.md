@@ -10,6 +10,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0011-container-with-most-water](https://github.com/maneshrava/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/maneshrava/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maneshrava/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/maneshrava/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/maneshrava/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/maneshrava/leetcode-solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/maneshrava/leetcode-solutions/tree/master/0877-stone-game) |
@@ -25,6 +26,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/maneshrava/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/maneshrava/leetcode-solutions/tree/master/0169-majority-element) |
 | [1995-count-special-quadruplets](https://github.com/maneshrava/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
@@ -120,6 +122,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/maneshrava/leetcode-solutions/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maneshrava/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -130,6 +133,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/maneshrava/leetcode-solutions/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -155,4 +159,12 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/maneshrava/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/maneshrava/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/maneshrava/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
