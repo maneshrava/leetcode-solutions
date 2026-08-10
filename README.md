@@ -12,6 +12,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maneshrava/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/maneshrava/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/maneshrava/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/maneshrava/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/maneshrava/leetcode-solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/maneshrava/leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/maneshrava/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/maneshrava/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
 | ------- |
