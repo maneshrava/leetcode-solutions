@@ -12,6 +12,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maneshrava/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/maneshrava/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/maneshrava/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/maneshrava/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/maneshrava/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/maneshrava/leetcode-solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/maneshrava/leetcode-solutions/tree/master/0877-stone-game) |
@@ -125,6 +126,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/maneshrava/leetcode-solutions/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/maneshrava/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maneshrava/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
