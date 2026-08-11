@@ -58,6 +58,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0319-bulb-switcher](https://github.com/maneshrava/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/maneshrava/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/maneshrava/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0492-construct-the-rectangle](https://github.com/maneshrava/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/maneshrava/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/maneshrava/leetcode-solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
