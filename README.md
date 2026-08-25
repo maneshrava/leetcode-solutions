@@ -23,6 +23,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/maneshrava/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maneshrava/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/maneshrava/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maneshrava/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/maneshrava/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -33,6 +34,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [1995-count-special-quadruplets](https://github.com/maneshrava/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maneshrava/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/maneshrava/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
