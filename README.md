@@ -8,6 +8,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | ------- |
 | [0001-two-sum](https://github.com/maneshrava/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/maneshrava/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/maneshrava/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/maneshrava/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/maneshrava/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maneshrava/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -124,6 +125,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/maneshrava/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/maneshrava/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/maneshrava/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/maneshrava/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -196,4 +198,8 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/maneshrava/leetcode-solutions/tree/master/0075-sort-colors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/maneshrava/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
