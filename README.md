@@ -16,6 +16,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0414-third-maximum-number](https://github.com/maneshrava/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/maneshrava/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/maneshrava/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/maneshrava/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/maneshrava/leetcode-solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/maneshrava/leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
