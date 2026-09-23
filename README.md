@@ -77,6 +77,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/maneshrava/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/maneshrava/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maneshrava/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/maneshrava/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Simulation
 |  |
 | ------- |
