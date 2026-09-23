@@ -29,6 +29,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/maneshrava/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maneshrava/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/maneshrava/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/maneshrava/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -159,6 +160,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3903-smallest-stable-index-i](https://github.com/maneshrava/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Brainteaser
 |  |
 | ------- |
