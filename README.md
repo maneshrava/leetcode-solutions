@@ -18,6 +18,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0217-contains-duplicate](https://github.com/maneshrava/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/maneshrava/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/maneshrava/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/maneshrava/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/maneshrava/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/maneshrava/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -42,6 +43,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0073-set-matrix-zeroes](https://github.com/maneshrava/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/maneshrava/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maneshrava/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/maneshrava/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maneshrava/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
