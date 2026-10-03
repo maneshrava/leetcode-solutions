@@ -9,6 +9,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0001-two-sum](https://github.com/maneshrava/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/maneshrava/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/maneshrava/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/maneshrava/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/maneshrava/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/maneshrava/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -110,6 +111,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/maneshrava/leetcode-solutions/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
