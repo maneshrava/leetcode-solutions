@@ -24,6 +24,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0605-can-place-flowers](https://github.com/maneshrava/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/maneshrava/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/maneshrava/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/maneshrava/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/maneshrava/leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -113,6 +114,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/maneshrava/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/maneshrava/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
