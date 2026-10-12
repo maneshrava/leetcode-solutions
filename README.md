@@ -28,6 +28,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0877-stone-game](https://github.com/maneshrava/leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/maneshrava/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
@@ -179,6 +180,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/maneshrava/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Brainteaser
