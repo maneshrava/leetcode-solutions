@@ -8,7 +8,6 @@ class Solution {
             int max = 0;
             int count = 0;
 
-            // Find the maximum digit and number of digits
             while (n > 0) {
                 int digit = n % 10;
                 max = Math.max(max, digit);
@@ -16,7 +15,6 @@ class Solution {
                 n = n / 10;
             }
 
-            // Construct the encrypted number
             int encrypted = 0;
 
             while (count > 0) {
