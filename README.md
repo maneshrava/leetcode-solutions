@@ -33,6 +33,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [1979-find-greatest-common-divisor-of-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/maneshrava/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/maneshrava/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/maneshrava/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/maneshrava/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/maneshrava/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maneshrava/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -130,6 +131,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0033-search-in-rotated-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/maneshrava/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/maneshrava/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/maneshrava/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/maneshrava/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
@@ -184,6 +186,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0414-third-maximum-number](https://github.com/maneshrava/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/maneshrava/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maneshrava/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/maneshrava/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maneshrava/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/maneshrava/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/maneshrava/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
