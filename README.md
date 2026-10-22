@@ -56,6 +56,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [1995-count-special-quadruplets](https://github.com/maneshrava/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2540-minimum-common-value](https://github.com/maneshrava/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maneshrava/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/maneshrava/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/maneshrava/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -173,6 +174,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [0557-reverse-words-in-a-string-iii](https://github.com/maneshrava/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/maneshrava/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/maneshrava/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/maneshrava/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Database
 |  |
 | ------- |
