@@ -38,6 +38,7 @@ A curated collection of my LeetCode solutions in Java, documenting my journey to
 | [2540-minimum-common-value](https://github.com/maneshrava/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/maneshrava/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/maneshrava/leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/maneshrava/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/maneshrava/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/maneshrava/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/maneshrava/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
